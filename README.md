@@ -18,7 +18,7 @@ I'm Vincent Oiro, an Electrical Engineering Technologist with a knack for progra
 
 - **Embedded Systems:** Familiar with microcontroller programming and firmware development. Experienced in working with Arduino.
 
-- **Web Development:** Knowledgeable in HTML, CSS, and JavaScript.
+- **Web Development:** Knowledgeable in HTML, CSS, and JavaScript AND Python.
 - **CAD:**knowledgeable in AutoCAD
 
 ### Projects
